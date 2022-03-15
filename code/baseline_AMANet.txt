@@ -1,0 +1,1 @@
+python ./baseline_AMANet/src/AMANet.py
